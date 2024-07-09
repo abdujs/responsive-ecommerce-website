@@ -19,10 +19,12 @@ To run the website locally, follow these steps:
 
 ## Clone the repository:
 Copy
+
 [git clone https://github.com/your-username/responsive-ecommerce-website.git]
 ## Navigate to the project directory:
 Copy
-(cd responsive-ecommerce-website)
+
+[cd responsive-ecommerce-website]
 Open the index.html file in your preferred web browser.
 ## Deployment
 To deploy the website, you can use a hosting service like GitHub Pages, Netlify, or Vercel. The specific deployment process will depend on the hosting service you choose.
