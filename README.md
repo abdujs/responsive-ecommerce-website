@@ -17,18 +17,6 @@ JavaScript (Optional): JavaScript can be used to add interactivity, such as prod
 Installation and Setup
 To run the website locally, follow these steps:
 
-## Clone the repository:
-Copy
-
-[git clone https://github.com/your-username/responsive-ecommerce-website.git]
-## Navigate to the project directory:
-Copy
-
-[cd responsive-ecommerce-website]
-Open the index.html file in your preferred web browser.
-## Deployment
-To deploy the website, you can use a hosting service like GitHub Pages, Netlify, or Vercel. The specific deployment process will depend on the hosting service you choose.
-
 ## Customization
 You can customize the website by modifying the HTML and CSS files to match your branding and design requirements. You can also add additional functionality using JavaScript, such as dynamic product filtering, form validation, and more.
 
